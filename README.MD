@@ -104,6 +104,7 @@ nova-landing-page/
 ├── package-lock.json
 ├── README.md
 └── vite.config.ts
+```
 
 ## 🌐 Live Demo
 
