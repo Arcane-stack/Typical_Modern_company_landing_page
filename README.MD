@@ -140,13 +140,69 @@ AI assistance was also used to improve:
 - Project structure
 - UI interactions
 
+## ⚙️ Installation Instructions
+
+### 1. Clone the repository
+
+Clone the NOVA repository to your local machine:
+
+```bash
+git clone https://github.com/Arcane-stack/nova-landing-page.git
+```
+### 2. Navigate into the project directory
+
+Open your terminal and move into the project folder:
+
+```cd nova-landing-page```
+### 3. Install the required dependencies
+
+Install all project dependencies using npm:
+
+```npm install```
+### 4. Start the development server
+
+Run the following command to start the Vite development server:
+
+```npm run dev```
+### 5. Open the website
+
+After the development server starts, Vite will display a local URL in the terminal.
+
+It will usually be:
+
+### http://localhost:5173
+
+Open the URL in your web browser to view the NOVA landing page.
+
+### 🏗️ Build for Production
+
+To create an optimized production build, run:
+
+```npm run build```
+
+The production-ready files will be generated in the dist folder.
+
+Preview the production build
+
+To preview the production build locally, run:
+
+```npm run preview```
+
+Vite will provide a local URL where you can view the production version of the website.
+
 ## SCREENSHOTS
-```
+**DESKTOP VIEW OF HERO SECTION**
 ![NOVA Desktop Homepage](./screenshots/image.png)
+**FEATURES SECTION**
 ![NOVA Desktop Homepage](./screenshots/image-1.png)
+**PRICING SECTION**
 ![NOVA Desktop Homepage](./screenshots/image-2.png)
+**FAQ SECTION**
 ![NOVA Desktop Homepage](./screenshots/image-3.png)
+**MOBILE VIEW**
 ![NOVA Desktop Homepage](./screenshots/image-4.png)
+**MOBILE HAMBURGER MENU**
 ![NOVA Desktop Homepage](./screenshots/image-5.png)
+**LIGHT THEME**
 ![NOVA Desktop Homepage](./screenshots/image-6.png)
-```
+
