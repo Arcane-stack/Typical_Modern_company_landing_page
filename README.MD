@@ -124,23 +124,24 @@ ChatGPT
 
 Used for:
 
--Code organization
--React component restructuring
--Debugging
--Implementation guidance
--Responsive design improvements
--Documentation
--AI-Assisted Development
+- Code organization
+- React component restructuring
+- Debugging
+- Implementation guidance
+- Responsive design improvements
+- Documentation
+- AI-Assisted Development
 
 AI assistance was also used to improve:
 
--Componentization
--Responsive behavior
--Interactive elements
--Project structure
--UI interactions
+- Componentization
+- Responsive behavior
+- Interactive elements
+- Project structure
+- UI interactions
 
 ## SCREENSHOTS
+```
 ![NOVA Desktop Homepage](./screenshots/image.png)
 ![NOVA Desktop Homepage](./screenshots/image-1.png)
 ![NOVA Desktop Homepage](./screenshots/image-2.png)
@@ -148,3 +149,4 @@ AI assistance was also used to improve:
 ![NOVA Desktop Homepage](./screenshots/image-4.png)
 ![NOVA Desktop Homepage](./screenshots/image-5.png)
 ![NOVA Desktop Homepage](./screenshots/image-6.png)
+```
